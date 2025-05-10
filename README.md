@@ -27,4 +27,4 @@ Forehand Topspin, Backhand Topspin, Forehand Chop, Backhand Chop, Random Motion,
 
 
 **Dataset Format**
-Each row in combined_dataset.csv includes: `Timestamp`, `Accel_X`, `Accel_Y`, `Accel_Z`, `Gyro_X`, `Gyro_Y`, `Gyro_Z`, `Label`
+- Each row in combined_dataset.csv includes: `Timestamp`, `Accel_X`, `Accel_Y`, `Accel_Z`, `Gyro_X`, `Gyro_Y`, `Gyro_Z`, `Label`
